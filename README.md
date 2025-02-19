@@ -43,31 +43,31 @@ Website desenvolvido para uma lanchonete.
 <br>
 
 ### Tablet e Mobile:
+<br>
+<br>
 
 ### Sobre:
 
 - ### De onde veio a inspiração? 
 
-  ---
+  --
 
 - ### Identidade Visual
 
-  **Logomarca:** ... <br> <br>
+  **Logomarca:** <br> <br>
 
-  **Paleta de Cores:** ...
+  **Paleta de Cores:**
 
   <br> 
-<!--   <div align="center">
-    <img align="center" alt="paleta de cor" src="assets/img/Paleta-awax.png">
-  </div> <br> <br> -->
+  <div align="center">
+    <img align="center" alt="paleta de cor" src="assets/img/paleta.png">
+  </div> <br> <br>
 
   **Font-Family:**
 
-<!-- <div align="center">
+<div align="center">
   <img align="center" alt="font-family"width="600" src="assets/img/font-family.png">
 </div> <br> <br>
- -->
----
 
 ### Contato:
 
