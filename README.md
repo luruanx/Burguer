@@ -35,7 +35,12 @@ Website desenvolvido para uma lanchonete.
 </div>
  <br>
  
----
+Page desenvolvida priorizando o [HTML Semântico](https://github.com/luruanx/Burguer/blob/main/index.html) e as
+[CSS responsiva](https://github.com/luruanx/Burguer/blob/main/assets/styles/style.css).<br>
+<br>
+<br>
+<p align="center"> 
+    <a href="https://luruanx.github.io/Burguer/">Clique aqui e veja o resultado até o momento</a>
 
 ### Layout Web:
 
@@ -51,13 +56,6 @@ Website desenvolvido para uma lanchonete.
 - ### De onde veio a inspiração? 
 
   --
-
-- ### Identidade Visual
-
-  **Logomarca:** <br> <br>
-
-  **Paleta de Cores:**
-
   <br> 
   <div align="center">
     <img align="center" alt="paleta de cor" src="assets/img/paleta.png">
